@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #fff;
+  padding: 20px;
+}
+
+#content {
+  position: relative;
+}
+
+#qr {
+  background: #fff;
+  padding: 5px;
+}
+
+#url {
+  margin-top: 20px;
+  width: 100%;
+  outline: 0;
+  padding: 10px;
+  font-size: 18px;
+  word-break: break-all;
+  word-wrap: break-word;
+  box-sizing: border-box;
+  resize: none;
+}
