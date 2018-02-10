@@ -1,6 +1,8 @@
 # chrome-extensions
 
-自己写的一些 chrome 扩展
+Google Chrome 扩展合集
+
+> 主要是自己用的，不定期增加新的扩展
 
 ## 使用
 1. 下载本项目源代码
